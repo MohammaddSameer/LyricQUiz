@@ -1,0 +1,7 @@
+{
+  "main": "main.js",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "genius-lyrics-api": "^3.2.0"
+  }
+}
